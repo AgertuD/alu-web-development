@@ -1,0 +1,2 @@
+
+In this project, you will focus on styling the webpage using CSS, building upon the HTML structure created in the previous project. Your goal is to implement the design and styling as specified in the Figma file. This project will not involve any HTML structure changes, but rather you’ll focus on applying the appropriate styles. You can access the design file on Figma, where you can create an account to view and reference the design details.
